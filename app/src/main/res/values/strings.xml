@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">SimpleProductivity4</string>
+    <string name="desc_text">#1 Productivity Tool</string>
+    <string name="openmessage">SimpleProductivity</string>
+    <string name="login_button_text">LOG IN</string>
+    <string name="forgot_password">Forgot password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="login">Log in</string>
+    <string name="register_button_text">Sign Up</string>
+    <string name="password_hint">Password</string>
+    <string name="email_hint">Email</string>
+    <string name="confirm_password_hint">Confirm password</string>
+    <string name="username_hint">Username</string>
+    <string name="password_reset_button">Send password reset link</string>
+    <string name="back_to_login">Log in</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="graphs">Graphs</string>
+    <string name="assignment_list">TODO</string>
+    <string name="timer">Timer</string>
+    <string name="play_button">Play button</string>
+    <string name="pause_button">Pause button</string>
+    <string name="reset_button">Reset button</string>
+    <string name="timer_text">Minutes</string>
+
+    <string-array name="activities">
+        <item>Studying</item>
+        <item>Programming</item>
+        <item>Working out</item>
+    </string-array>
+</resources>

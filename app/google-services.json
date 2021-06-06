@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "92258693469",
+    "project_id": "simpleproductivity-bac4e",
+    "storage_bucket": "simpleproductivity-bac4e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:92258693469:android:a1dab7acb57ed5dfc578b4",
+        "android_client_info": {
+          "package_name": "com.example.simpleproductivity4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "92258693469-30jf30gm1g788m8e11nf5sqb72vudfch.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXTPqFiuibdBRex5RNF1KXXW1_tX8OqeA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "92258693469-30jf30gm1g788m8e11nf5sqb72vudfch.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

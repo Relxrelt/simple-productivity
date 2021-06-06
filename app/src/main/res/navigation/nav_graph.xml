@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/navigation_timer">
+
+    <fragment
+        android:id="@+id/navigation_timer"
+        android:name="com.example.simpleproductivity4.TimerFragment"
+        android:label="fragment_timer"
+        tools:layout="@layout/fragment_timer" />
+    <fragment
+        android:id="@+id/navigation_todo"
+        android:name="com.example.simpleproductivity4.AssignmentFragment"
+        android:label="fragment_assignment"
+        tools:layout="@layout/fragment_assignment" />
+    <fragment
+        android:id="@+id/navigation_graphs"
+        android:name="com.example.simpleproductivity4.GraphsFragment"
+        android:label="fragment_graphs"
+        tools:layout="@layout/fragment_graphs" />
+</navigation>

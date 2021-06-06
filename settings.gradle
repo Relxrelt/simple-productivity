@@ -1,0 +1,2 @@
+rootProject.name = "SimpleProductivity4"
+include ':app'
